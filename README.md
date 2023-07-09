@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Jian's GitHub stats](https://github-readme-stats.vercel.app/api?username=jian1114&theme=omni&show_icons=true&theme=swift)
+![Jian's GitHub stats](https://github-readme-stats.vercel.app/api?username=jian1114&theme=omni&show_icons=true)
