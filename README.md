@@ -19,7 +19,7 @@
 <br><br><br>
 
 <!-- 2. Education -->
-# EDUCATIONS
+# 📚 EDUCATIONS
 ### Kyonggi University, South Korea (MAR 2019 - FEB 2023)
 - GPA : 4.24 / 4.5
 - Bachelor of Science in Mathematics
@@ -34,12 +34,16 @@
 - ML, DL
 - Django, AWS, DB
 
-<br><br>
+<br>
+
+<!-- 3. Projects -->
+# 🔥 PROJECTS
 
 
+<br>
 
 
-<!-- 3. Skills -->
+<!-- 4. Skills -->
 # 💪 Skills 
 <div align="center">
 
