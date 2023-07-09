@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&section=header&text=LEE JIAN&fontSize=100&animation=twinkling&fontAlign=24&fontAlignY=70" /><br>
+<img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&section=header&text=LEE%20JIAN&fontSize=100&animation=twinkling&fontAlign=24&fontAlignY=70" /><br>
 
 <a href="https://huggingface.co/jian1114">
     <img src="https://img.shields.io/badge/Hugging Face-FDD21E?style=flat-square&logo=HuggoingFace&logoColor=black"/>
