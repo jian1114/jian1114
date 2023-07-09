@@ -22,11 +22,11 @@
 # EDUCATIONS
 ### Kyonggi University, South Korea (MAR 2019 - FEB 2023)
 - GPA : 4.24 / 4.5
-- Bachelor of Mathematics
+- Bachelor of Science in Mathematics
     - Calculus, Linear algebra, Numerical analysis, Probability and Statistics, Mathematical analysis, Differential geometry, Differential equation
-- Bachelor of Convergence Data Engineering
+- Bachelor of Science in Convergent Data Engineering
     - Calculation programming, Understanding Deep Learning, Big data analysis and application, Data analysis project, Database system
-- Bachelor of Applied Statistics
+- Bachelor of Science in Applied Statistics
     - Introduction to Statistics, Data search methodology, Regression analysis, Statistical calculation, Design of experiments, Statistical inference, Multivariate Statistical Analysis, 
 
 ### KT AIVLE SCHOOL (FEB 2023 - JUL 2023)
