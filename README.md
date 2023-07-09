@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&section=header&text=LEE%20JIAN&fontSize=100&animation=twinkling&fontAlign=24&fontAlignY=70" /><br>
 
+<!-- 1. Contact us -->
 <a href="https://huggingface.co/jian1114">
     <img src="https://img.shields.io/badge/Hugging Face-FDD21E?style=flat-square&logo=HuggoingFace&logoColor=black"/>
 </a>
@@ -15,9 +16,30 @@
 <a href="https://jiandata.tistory.com/">
     <span><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"></span>
 </a>
+<br><br><br>
+
+<!-- 2. Education -->
+# EDUCATIONS
+### Kyonggi University, South Korea (MAR 2019 - FEB 2023)
+- GPA : 4.24 / 4.5
+- Bachelor of Mathematics
+    - Calculus, Linear algebra, Numerical analysis, Probability and Statistics, Mathematical analysis, Differential geometry, Differential equation
+- Bachelor of Convergence Data Engineering
+    - Calculation programming, Understanding Deep Learning, Big data analysis and application, Data analysis project, Database system
+- Bachelor of Applied Statistics
+    - Introduction to Statistics, Data search methodology, Regression analysis, Statistical calculation, Design of experiments, Statistical inference, Multivariate Statistical Analysis, 
+
+### KT AIVLE SCHOOL (FEB 2023 - JUL 2023)
+- AI Track
+- ML, DL
+- Django, AWS, DB
+
 <br><br>
 
 
+
+
+<!-- 3. Skills -->
 # 💪 Skills 
 <div align="center">
 
@@ -52,7 +74,8 @@
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></span>
-
+<span><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></span>
 <br>
 
 
