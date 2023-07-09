@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&section=header&text=LEE%20JIAN&fontSize=100&animation=twinkling&fontAlign=24&fontAlignY=70" /><br>
+<div style='float: left;'>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&section=header&text=LEE%20JIAN&fontSize=100&animation=twinkling&fontAlign=24&fontAlignY=70"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjian1114&count_bg=%23000000&title_bg=%23638FDA&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=true">
+</div>
+
 
 <!-- 1. Contact us -->
 <a href="https://huggingface.co/jian1114">
