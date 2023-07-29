@@ -8,7 +8,7 @@
 <a href="https://huggingface.co/jian1114">
     <img src="https://img.shields.io/badge/Hugging Face-FDD21E?style=flat-square&logo=HuggoingFace&logoColor=black"/>
 </a>
-<a href="https://www.notion.so/JIAN-LEE-test-b25e5d3330274e35a7cb9a76944f7c87?pvs=4">
+<a href="https://tidal-volcano-026.notion.site/f65da8dbe0cb4584bdef998d20fc7c5c?pvs=4">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=ehdms1114@gmail.com">
